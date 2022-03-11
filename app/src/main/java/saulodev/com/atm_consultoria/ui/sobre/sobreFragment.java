@@ -35,7 +35,7 @@ public class sobreFragment extends Fragment {
                 .setDescription(descricao)
 
                 .addGroup("Entre em contato")
-                .addEmail("atendimento@atmconsultoria.com.br,", "Envie um e-mail")
+                .addEmail("atendimento@atmconsultoria.com.br", "Envie um e-mail")
                 .addWebsite("https://www.google.com/", "Acesse nosso site")
 
                 .addGroup("Redes Sociais")
